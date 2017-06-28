@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimeiroAndroid</string>
+    <string name="frase1">Digite o primeiro numero</string>
+    <string name="frase2">Digite o segundo numero</string>
+    <string name="btsomar">Somar</string>
+    <string name="btsubtrair">Subtrair</string>
+    <string name="btmultiplicacao">Multiplicar</string>
+    <string name="btdivisao">Dividir</string>
+</resources>
